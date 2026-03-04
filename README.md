@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hey, I'm Peppershade 👋
 
-<!--
-**Peppershade/peppershade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I run it, I own it."*
 
-Here are some ideas to get you started:
+Systems engineer by trade, homelab tinkerer by passion. I believe in taking control of your own infrastructure — not everything needs to live in someone else's cloud. That said, I keep it realistic: self-hosting is great, but it should also be stable, secure, and sane.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏠 What's Running at Home
+
+- **Synology NAS** — storage, backups, and more
+- **Proxmox homeserver** — VMs and containers for everything else
+- **Linux** — all the way down
+- **Docker** — keeping services tidy and portable
+- **Cisco** — because your network deserves as much love as your servers
+
+---
+
+## 🔧 What I'm Working On
+
+- 🔄 **Active Backup kernel updates for Synology** — digging into kernel-level work to keep Active Backup running smoothly across updates
+- 📦 More projects live on **my own self-hosted Gitea** — because of course they do
+
+---
+
+## 🧠 My Philosophy
+
+Self-hosting is empowering, but I'm not here to self-host everything for the sake of it. Uptime matters. Security matters. Sleep also matters. I aim for setups that are:
+
+- ✅ Reliable over clever
+- 🔒 Private and secure
+- 🧩 Maintainable long-term
+
+---
+
+## 🛠️ Tech I Work With
+
+| Area | Tools |
+|---|---|
+| Virtualisation | Proxmox |
+| Containers | Docker |
+| Storage | Synology DSM |
+| Networking | Cisco |
+| OS | Linux (servers only) |
+
+---
+
+## 🤖 Building with Claude
+
+I'm not a full-stack developer — and I don't pretend to be. But I do love building apps, and I use Claude to help make that happen. I'm a firm believer in AI-assisted development, as long as you approach it the right way: understanding what you're shipping, thinking through security, and not blindly copy-pasting your way into production. Used responsibly, it's a genuine superpower.
+
+---
+
+*Privacy advocate. Systems thinker. Homelab realist.*
