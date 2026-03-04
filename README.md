@@ -18,7 +18,7 @@ Systems engineer by trade, homelab tinkerer by passion. I believe in taking cont
 
 ## 🔧 What I'm Working On
 
-- 🔄 **Active Backup kernel updates for Synology** — digging into kernel-level work to keep Active Backup running smoothly across updates
+- 🔄 **Synology Active Backup Agent — Kernel 6.12–6.18 Patches** — Synology's `synosnap` DKMS module hasn't been updated since kernel 6.8 and fails to compile on modern distros like Debian 13 and Ubuntu 24.04+. Rather than waiting indefinitely, I patched the module and repackaged the installer so it just works.
 - 📝 **AI integration in Outline** — Outline had AI, but locked behind a paywall. So I built it in myself
 - ✅ **UptimeKuma migrator** — built a tool to migrate UptimeKuma setups, because someone had to
 - 📦 More projects live on **my own self-hosted Git** — because of course they do
