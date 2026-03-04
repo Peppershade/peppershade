@@ -2,7 +2,7 @@
 
 > *"I run it, I own it."*
 
-Systems engineer by trade, homelab tinkerer by passion. I believe in taking control of your own infrastructure — not everything needs to live in someone else's cloud. That said, I keep it realistic: self-hosting is great, but it should also be stable, secure, and sane.
+Systems engineer by trade, homelab tinkerer by passion. I believe in taking control of your own infrastructure, not everything needs to live in someone else's cloud. That said, I keep it realistic: self-hosting is great, but it should also be stable, secure, and sane.
 
 ---
 
@@ -19,7 +19,9 @@ Systems engineer by trade, homelab tinkerer by passion. I believe in taking cont
 ## 🔧 What I'm Working On
 
 - 🔄 **Active Backup kernel updates for Synology** — digging into kernel-level work to keep Active Backup running smoothly across updates
-- 📦 More projects live on **my own self-hosted Gitea** — because of course they do
+- 📝 **AI integration in Outline** — Outline had AI, but locked behind a paywall. So I built it in myself
+- ✅ **UptimeKuma migrator** — built a tool to migrate UptimeKuma setups, because someone had to
+- 📦 More projects live on **my own self-hosted Git** — because of course they do
 
 ---
 
@@ -33,22 +35,10 @@ Self-hosting is empowering, but I'm not here to self-host everything for the sak
 
 ---
 
-## 🛠️ Tech I Work With
-
-| Area | Tools |
-|---|---|
-| Virtualisation | Proxmox |
-| Containers | Docker |
-| Storage | Synology DSM |
-| Networking | Cisco |
-| OS | Linux (servers only) |
-
----
-
 ## 🤖 Building with Claude
 
 I'm not a full-stack developer — and I don't pretend to be. But I do love building apps, and I use Claude to help make that happen. I'm a firm believer in AI-assisted development, as long as you approach it the right way: understanding what you're shipping, thinking through security, and not blindly copy-pasting your way into production. Used responsibly, it's a genuine superpower.
 
 ---
 
-*Privacy advocate. Systems thinker. Homelab realist.*
+*Privacy advocate. Systems thinker. Homelab realist. I automate the boring stuff, build tools to make life easier, and tend to finish what others leave behind.*
